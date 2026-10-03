@@ -1,0 +1,11 @@
+EfficientNetB0 Test Evaluation
+========================================
+Accuracy  : 0.8638
+Precision : 0.8427
+Recall    : 0.9615
+F1-Score  : 0.8982
+ROC-AUC   : 0.9482
+
+Confusion Matrix:
+[[164  70]
+ [ 15 375]]
